@@ -1,0 +1,103 @@
+[
+  { "question": ["hello", "hi", "hey"], "answer": "Hello! How can I assist you today?" },
+  { "question": ["how are you", "how are you doing"], "answer": "I'm doing great! What about you?" },
+  { "question": ["bye", "goodbye"], "answer": "Goodbye! Have a nice day!" },
+
+  { "question": ["who is the primeminister of india", "current prime minister of india"], "answer": "The Prime Minister of India is Shri Narendra Modi." },
+  { "question": ["who is the president of india", "current president of india"], "answer": "The President of India is Smt. Droupadi Murmu." },
+  { "question": ["who is the finance minister of india", "finance minister of india"], "answer": "The Finance Minister of India is Nirmala Sitharaman." },
+  { "question": ["who is the home minister of india","home minister of india" ], "answer": "The Home Minister of India is Amit Shah." },
+
+  { "question": ["formula of area of circle", "area of circle"], "answer": "The area of a circle is π × r², where r is the radius." },
+  { "question": ["formula of speed", "speed formula"], "answer": "Speed = Distance ÷ Time." },
+  { "question": ["formula of force", "force formula"], "answer": "Force = Mass × Acceleration (F = m × a)." },
+
+  { "question": ["what is ai", "meaning of ai", "define ai"], "answer": "AI stands for Artificial Intelligence. It enables machines to think and act like humans." },
+  { "question": ["what is computer", "define computer"], "answer": "A computer is an electronic device used for storing and processing data." },
+
+  { "question": ["what is your name"], "answer": "I am a simple chatbot created by Anil using React!" },
+
+  { "question": ["who is vishal", "who is vishal that study in mlk "], "answer": "Gandu boy who is talk with a foffish girl !😊" },
+  { "question": ["who is vijay verma", "who is vishal that study in mlk "], "answer": "Normal boy who is talk with a kajal name  girl !😊" },
+  
+  { "question": ["thank you", "thanks"], "answer": "You're welcome! 😊" },
+   { "question": ["what is your purpose", "why were you created"], "answer": "I was created to assist users with questions and provide helpful information." },
+  { "question": ["tell me a joke", "make me laugh"], "answer": "Why don’t scientists trust atoms? Because they make up everything!" },
+  { "question": ["what is the capital of india"], "answer": "The capital of India is New Delhi." },
+  { "question": ["who invented computer"], "answer": "Charles Babbage is known as the father of the computer." },
+  { "question": ["who invented light bulb"], "answer": "Thomas Edison is credited with inventing the practical light bulb." },
+  { "question": ["who discovered gravity"], "answer": "Sir Isaac Newton discovered gravity when an apple fell on his head." },
+  { "question": ["largest planet in solar system"], "answer": "The largest planet in our solar system is Jupiter." },
+  { "question": ["smallest planet", "smallest planet in solar system"], "answer": "The smallest planet in our solar system is Mercury." },
+  { "question": ["formula for perimeter of rectangle"], "answer": "Perimeter = 2 × (length + width)." },
+  { "question": ["formula for area of square"], "answer": "Area = side × side." },
+  { "question": ["table of 5"], "answer": "Here is the table of "},
+  { "question": ["what is cpu"], "answer": "CPU stands for Central Processing Unit. It is the brain of the computer." },
+  { "question": ["what is ram"], "answer": "RAM stands for Random Access Memory. It stores temporary data for quick access." },
+  { "question": ["what is browser"], "answer": "A browser is software used to access and view websites, like Chrome or Firefox." },
+  { "question": ["define internet"], "answer": "The internet is a global network that connects millions of computers worldwide." },
+  { "question": ["how many states in india"], "answer": "India has 28 states and 8 union territories as of now." },
+  { "question": ["who wrote national anthem of india"], "answer": "The national anthem of India, 'Jana Gana Mana', was written by Rabindranath Tagore." },
+  { "question": ["india independence day"], "answer": "India celebrates its Independence Day on 15th August every year." },
+  { "question": ["world environment day"], "answer": "World Environment Day is celebrated on 5th June every year." },
+  { "question": ["when is republic day celebrated"], "answer": "Republic Day is celebrated on 26th January every year in India." },
+  { "question": ["define democracy"], "answer": "Democracy is a form of government where people have the power to elect their leaders." },
+  { "question": ["what is pollution"], "answer": "Pollution is the presence of harmful substances in the environment." },
+  { "question": ["what is exam stress"], "answer": "Exam stress is the pressure and anxiety students feel before or during exams." },
+  { "question": ["how to stay focused"], "answer": "Take breaks, remove distractions, and set small achievable goals." },
+  { "question": ["tips for studying"], "answer": "Create a study plan, revise regularly, and take notes to remember key points." },
+  { "question": ["what is 5g"], "answer": "5G is the fifth-generation wireless technology offering faster internet speeds and lower latency." },
+    {
+    "question": ["india impose tariffs on usa", "us tariff india 2025"],
+    "answer": "As of August 2025, the US has imposed a 25% tariff on Indian imports following trade tensions under former President Trump."
+  },
+  {
+    "question": ["india response to us tariffs", "mea statement on tariffs"],
+    "answer": "India’s Ministry of External Affairs clarified it has no plans to review bilateral pacts or impose retaliatory tariffs on US goods."
+  },
+  {
+    "question": ["philippines president visit india", "marcos visit india 2025"],
+    "answer": "The Philippines President Ferdinand Marcos Jr is visiting India from August 4 to 8, 2025, to discuss trade, investment and maritime cooperation."
+  },
+  {
+    "question": ["president rule manipur extended", "manipur president rule extension"],
+    "answer": "President’s Rule in Manipur has been extended by six months from August 13, 2025 due to ongoing instability."
+  },
+  {
+    "question": ["operation black forest", "naxal operation april 2025"],
+    "answer": "Operation Black Forest was an anti‑Naxalite operation across Chhattisgarh‑Telangana border in May 2025; government forces claimed over 31 Maoists were killed."
+  },
+  {
+    "question": ["operation abhyaas", "india mock drill may 2025"],
+    "answer": "Operation Abhyaas was a nationwide civil defence mock drill on 7 May 2025 across 244 districts to enhance public emergency readiness."
+  },
+  {
+    "question": ["ksou free education minority", "ksou minority outreach"],
+    "answer": "Karnataka State Open University launched a scheme providing free education to ~3,000 minority students, with plans to expand funding next year."
+  },
+  {
+    "question": ["jai shankar visit russia august 2025", "meet russia jaishankar doval"],
+    "answer": "In August 2025, External Affairs Minister S. Jaishankar and NSA Ajit Doval are scheduled to visit Russia to strengthen diplomatic ties."
+  },
+  {
+    "question": ["important days august 2025", "national days august 2025"],
+    "answer": "Important observances in August 2025 include Independence Day (Aug 15), World Humanitarian Day (Aug 19), and National Sports Day (Aug 29)."
+  },
+  {
+    "question": ["miss universe india 2025 date", "miss universe india indore"],
+    "answer": "Miss Universe India 2025 will be held on 17 August in Indore, Madhya Pradesh — winner will represent India at Miss Universe in Thailand."
+  },
+    {
+    "question": ["play bhojpuri song", "bhojpuri gana", "play song"],
+    "answer": "🎵 Here's a Bhojpuri song for you:<br><audio controls autoplay><source src=\"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3\" type=\"audio/mpeg\" />Your browser does not support audio playback.</audio>"
+  },
+  {
+    "question": ["another bhojpuri song", "bhojpuri gana 2"],
+    "answer": "🎶 Enjoy this one too:<br><audio controls><source src=\"https://file-examples.com/storage/fe987c14c9b9a7dc1dbea24/2017/11/file_example_MP3_700KB.mp3\" type=\"audio/mpeg\" /></audio>"
+  },
+  {
+    "question": ["bhojpuri dance song"],
+    "answer": "🔥 Bhojpuri dance song:<br><audio controls><source src=\"/audio/dance.mp3\" type=\"audio/mpeg\" /></audio>"
+  }
+
+]
